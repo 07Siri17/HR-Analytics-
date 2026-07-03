@@ -74,34 +74,34 @@ I created **three dashboards each in Power BI and Tableau**:
 ---
 
 ## 📂 Project Structure
-HR-Analytics-Dashboard/
-│
-├── 01_Business_Documents/
-│   ├── Project_Charter.pdf
-│   ├── BRD.pdf
-│   ├── KPI_Definitions.xlsx
-│   └── Data_Dictionary.xlsx
-├── 02_Data/
-│   ├── raw/hr_employee_raw.csv
-│   ├── cleaned/hr_employee_cleaned.csv
-│   └── reference/
-│       ├── department_targets.csv
-│       └── attrition_cost_assumptions.csv
-├── 03_Analysis/
-│   ├── EDA_Notes.md
-│   ├── Hypotheses.md
-│   └── Insights.md
-├── 04_PowerBI/
-│   ├── HR_Analytics.pbix
-│   └── DAX_Calculations.xlsx
-├── 05_Tableau/
-│   ├── HR_Analytics.twbx
-│   └── tableau_calculations.xlsx
-├── 06_Output/
-│   ├── dashboard_screenshots/
-│   ├── Insights_Presentation.pdf
-│   └── Executive_Summary.pdf
-└── README.md
+- HR-Analytics-Dashboard/
+- │
+- ├── 01_Business_Documents/
+- │   ├── Project_Charter.pdf
+- │   ├── BRD.pdf
+- │   ├── KPI_Definitions.xlsx
+- │   └── Data_Dictionary.xlsx
+- ├── 02_Data/
+- │   ├── raw/hr_employee_raw.csv
+- │   ├── cleaned/hr_employee_cleaned.csv
+- │   └── reference/
+- │       ├── department_targets.csv
+- │       └── attrition_cost_assumptions.csv
+- ├── 03_Analysis/
+- │   ├── EDA_Notes.md
+- │   ├── Hypotheses.md
+- │   └── Insights.md
+- ├── 04_PowerBI/
+- │   ├── HR_Analytics.pbix
+- │   └── DAX_Calculations.xlsx
+- ├── 05_Tableau/
+- │   ├── HR_Analytics.twbx
+- │   └── tableau_calculations.xlsx
+- ├── 06_Output/
+- │   ├── dashboard_screenshots/
+- │   ├── Insights_Presentation.pdf
+- │   └── Executive_Summary.pdf
+- └── README.md
 
 
 ---
@@ -120,4 +120,3 @@ This project demonstrates:
 Built as part of a portfolio showcase to demonstrate HR analytics, KPI-driven dashboards, and BI storytelling in Power BI and Tableau.
 
 
-## 📂 Project Structure
