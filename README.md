@@ -118,5 +118,3 @@ This project demonstrates:
 ## 📌 Author
 **Siri**  
 Built as part of a portfolio showcase to demonstrate HR analytics, KPI-driven dashboards, and BI storytelling in Power BI and Tableau.
-
-
